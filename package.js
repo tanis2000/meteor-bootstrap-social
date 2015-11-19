@@ -1,7 +1,7 @@
 Package.describe({
   name: "tanis:bootstrap-social",
   summary: "Social buttons for Bootstrap packaged for Meteor",
-  version: "0.1.1",
+  version: "0.1.2",
   git: "https://github.com/tanis2000/meteor-bootstrap-social.git"
 });
 
